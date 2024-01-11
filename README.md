@@ -12,3 +12,6 @@
 [5. Arquitectura y componentes](arquitectura.md)
 
 - [Referencias](referencias.md)
+
+## Licencia
+![images](licencia.png)
