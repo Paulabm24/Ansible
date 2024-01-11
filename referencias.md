@@ -1,1 +1,2 @@
-
+- https://www.panel.es/que-es-ansible/#:~:text=Qu%C3%A9%20es%20Ansible%3F-,Ansible%20es%20una%20plataforma%20de%20automatizaci%C3%B3n%20TI%20disponible%20como%20software,hoc%20y%20administraci%C3%B3n%20de%20configuraciones.
+- https://es.wikipedia.org/wiki/Ansible_(software)
